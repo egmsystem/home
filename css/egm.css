@@ -2615,6 +2615,7 @@ ul.sub_ul_list li::before {
     gap: 6%;
     width: 100%;
     padding-top: 0px;
+    margin-left: -30px;
 }
 
 .his_left {
